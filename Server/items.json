@@ -1,0 +1,51 @@
+[
+  {
+    "name": "SpikeBall Set",
+    "description": "Competitive yard game",
+    "bidPrice": 25,
+    "buyPrice": 50,
+    "sold": false,
+    "messName": "spike",
+    "highestBidder": null
+  },
+
+  {
+    "name": "MacBook Pro with M1 Chip",
+    "description": "A laptop with an incredible chip blowing AMD and Intel out of the water",
+    "bidPrice": 2000,
+    "buyPrice": 4000,
+    "sold": false,
+    "messName": "mac",
+    "highestBidder": null
+  },
+
+  {
+    "name": "Five Dollar Bill",
+    "description": "5 US Dollars, standard tendy",
+    "bidPrice": 15,
+    "buyPrice": 30,
+    "sold": false,
+    "messName": "five",
+    "highestBidder": null
+  },
+
+  {
+    "name": "Corvette Z1 Wide Body",
+    "description": "The most thiqq corvette there is",
+    "bidPrice": 23000,
+    "buyPrice": 69000,
+    "sold": false,
+    "messName": "corvette",
+    "highestBidder": null
+  },
+
+  {
+    "name": "Rocket League Black Market Decal",
+    "description": "Increases game skill x100 with new camo",
+    "bidPrice": 15,
+    "buyPrice": 30,
+    "sold": false,
+    "messName": "rocket",
+    "highestBidder": null
+  }
+]
